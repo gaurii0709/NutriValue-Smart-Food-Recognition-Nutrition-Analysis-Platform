@@ -77,7 +77,7 @@ Built with **React, FastAPI, TensorFlow, Supabase, Tailwind CSS, and the USDA Fo
 
 ## 👤 User Profile
 
-Personalized nutrition profile and daily calorie goal.
+Complete your profile to receive personalized calorie goals based on your height, weight, age, activity level, and fitness goal.
 
 ![User Profile](images/profile.jpeg)
 
@@ -87,31 +87,33 @@ Personalized nutrition profile and daily calorie goal.
 
 Upload a food image or capture one using your webcam.
 
-*(Add dashboard screenshot here)*
+![Home Dashboard](images/dashboard.jpeg)
 
 ---
 
 ## 🔍 Meal Analysis
 
-Answer meal-related questions to improve nutrition estimation.
+The application recognizes the uploaded food item and begins the nutrition estimation process.
 
-*(Add meal analysis screenshot here)*
-
----
-
-## 📊 Nutrition Results
-
-View estimated calories, protein, carbohydrates, and fats.
-
-*(Add nutrition results screenshot here)*
+![Meal Analysis](images/meal-analysis.jpeg)
 
 ---
 
-## 📈 Meal History
+##  Dynamic Meal Questions
 
-View previously analyzed meals and nutrition trends.
+Users answer food-specific questions such as portion size and crust type to improve nutrition estimation accuracy.
 
-*(Add meal history screenshot here)*
+![Dynamic Questions](images/questions.jpeg)
+
+---
+
+## 📈 Meal History & Nutrition Analytics
+
+Track previously analyzed meals, weekly calorie trends, and macronutrient distribution through the dashboard.
+
+![Meal History](images/meal-history.jpeg)
+
+
 
 ---
 
