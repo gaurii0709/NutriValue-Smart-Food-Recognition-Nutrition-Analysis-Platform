@@ -106,6 +106,11 @@ Users answer food-specific questions such as portion size and crust type to impr
 ![Dynamic Questions](images/questions.jpeg)
 
 ---
+## 📊 Nutrition Results
+
+View estimated calories, protein, carbohydrates, and fats.
+
+![Nutrition Results](images/nutrition-results.png)
 
 ## 📈 Meal History & Nutrition Analytics
 
